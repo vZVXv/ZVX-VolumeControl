@@ -2,11 +2,11 @@
 
 Select your language / Выберите язык:
 
-[![English](https://img.shields.io/badge/Language-English-blue.svg)](./EN%20README.md)
-[![Русский](https://img.shields.io/badge/Язык-Русский-red.svg)](./RU%20README.md)
+[![English](https://img.shields.io/badge/Language-English-blue.svg)](./README_EN.md)
+[![Русский](https://img.shields.io/badge/Язык-Русский-red.svg)](./README_RU.md)
 
 <p align="center">
-  <img src="Logo.jpg" alt="Banner" width="1000">
+  <img src="Logo3.1.jpg" alt="Banner" width="1000">
 </p>
 
 ---
