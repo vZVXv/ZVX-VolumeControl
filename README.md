@@ -6,3 +6,4 @@ Select your language / Выберите язык:
 [![Русский](https://img.shields.io/badge/Язык-Русский-red.svg)](./RU%20README.md)
 
 ---
+<img width="604" height="446" alt="1" src="https://github.com/user-attachments/assets/a73c0123-9dab-4afd-a621-7292c9a8874b" />
