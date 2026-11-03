@@ -1,4 +1,4 @@
-# ZVX-VolumeControl v3
+# ZVX-VolumeControl v3.1
 
 Select your language / Выберите язык:
 
